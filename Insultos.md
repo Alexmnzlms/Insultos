@@ -1,30 +1,76 @@
 En este archivo vamos a contemplar el top 221 insultos en castellano:
 
+# √çNDICE
+
+- [A](#id01)
+- [B](#id02)
+- [C](#id03)
+- [D](#id04)
+- [E](#id05)
+- [F](#id06)
+- [G](#id07)
+- [H](#id08)
+- [I](#id09)
+- [J](#id10)
+- [K](#id11)
+- [L](#id12)
+- [M](#id13)
+- [N](#id14)
+- [√ë](#id15)
+- [O](#id16)
+- [P](#id17)
+- [Q](#id18)
+- [R](#id19)
+- [S](#id20)
+- [T](#id21)
+- [U](#id22)
+- [V](#id23)
+- [W](#id24)
+- [X](#id25)
+- [Y](#id26)
+- [Z](#id27)
+
+# LISTADO DE CHISTES
+
+<div id='id01'/>
+
+## A
+
 1. Abanto
 2. Abrazafarolas
 3. Adufe
 4. Alcornoque
-5. AlfeÒique
+5. Alfe√±ique
 6. Andurriasmo
 7. Arrastracueros
-8. Artab·n
+8. Artab√°n
 9. Atarre
+
+<div id='id02'/>
+
+## B
+
 10. Baboso
-11. Barrab·s
+11. Barrab√°s
 12. Barriobajero
 13. Bebecharcos
 14. Bellaco
 15. Belloto
 16. Berzotas
 17. Besugo
-18. BobalicÛn
-19. BocabuzÛn
+18. Bobalic√≥n
+19. Bocabuz√≥n
 20. Bocachancla
 21. Bocallanta
 22. Boquimuelle
 23. Borrico
 24. Botarate
 25. Brasas
+
+<div id='id03'/>
+
+## C
+
 26. Cabestro
 27. Cabezaalberca
 28. Cabezabuque
@@ -34,14 +80,14 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 32. Cagarruta
 33. Calambuco
 34. Calamidad
-35. Cald˙o
+35. Cald√∫o
 36. Calientahielos
 37. Calzamonas
 38. Cansalmas
-39. CantamaÒanas
+39. Cantama√±anas
 40. Capullo
 41. Caracaballo
-42. CaracartÛn
+42. Caracart√≥n
 43. Caraculo
 44. Caraflema
 45. Carajaula
@@ -53,13 +99,13 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 51. Cenizo
 52. Cenutrio
 53. Ceporro
-54. CernÌcalo
-55. Charr·n
+54. Cern√≠calo
+55. Charr√°n
 56. Chiquilicuatre
 57. Chirimbaina
 58. Chupacables
 59. Chupasangre
-60. ChupÛptero
+60. Chup√≥ptero
 61. Cierrabares
 62. Cipote
 63. Comebolsas
@@ -69,46 +115,93 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 67. Cretino
 68. Cuerpoescombro
 69. Culopollo
+
+<div id='id04'/>
+
+## D
+
 70. Descerebrado
 71. Desgarracalzas
 72. Dondiego
 73. Donnadie
+
+<div id='id05'/>
+
+## E
+
 74. Echacantos
 75. Ejarramantas
-76. Energ˙meno
+76. Energ√∫meno
 77. Esbaratabailes
 78. Escolimoso
 79. Escornacabras
 80. Estulto
+
+<div id='id06'/>
+
+## F
+
 81. Fanfosquero
 82. Fantoche
 83. Fariseo
 84. Filimincias
 85. Foligoso
 86. Fulastre
-87. Ganap·n
+
+<div id='id07'/>
+
+## G
+
+87. Ganap√°n
 88. Ganapio
-89. Gand˙l
-90. GaÒ·n
-91. Gazn·piro
+89. Gand√∫l
+90. Ga√±√°n
+91. Gazn√°piro
 92. Gilipuertas
 93. Giraesquinas
 94. Gorrino
 95. Gorrumino
 96. Guitarro
 97. Gurriato
-98. Habahel·
+
+<div id='id08'/>
+
+## H
+
+98. Habahel√°
 99. Huelegateras
-100. HuevÛn
+100. Huev√≥n
+
+<div id='id09'/>
+
+## I
+
+<div id='id10'/>
+
+## J
+
+<div id='id11'/>
+
+## K
+
+<div id='id12'/>
+
+## L
+
 101. Lamecharcos
 102. Lameculos
 103. Lameplatos
 104. Lechuguino
 105. Lerdo
-106. LetrÌn
+106. Letr√≠n
 107. Lloramigas
 108. Longanizas
 109. Lumbreras
+
+<div id='id13'/>
+
+## M
+
 110. Maganto
 111. Majadero
 112. Malasangre
@@ -117,12 +210,12 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 115. Mameluco
 116. Mamporrero
 117. Manegueta
-118. Mangarr·n
-119. Mangurri·n
+118. Mangarr√°n
+119. Mangurri√°n
 120. Mastuerzo
 121. Matacandiles
 122. Meapilas
-123. MelÛn
+123. Mel√≥n
 124. Mendrugo
 125. Mentecato
 126. Mequetrefe
@@ -133,8 +226,26 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 131. Morlaco
 132. Morroestufa
 133. Muerdesartenes
+
+<div id='id14'/>
+
+## N
+
+<div id='id15'/>
+
+## √ë
+
+<div id='id16'/>
+
+## O
+
 134. Orate
 135. Ovejo
+
+<div id='id17'/>
+
+## P
+
 136. Pagafantas
 137. Palurdo
 138. Pamplinas
@@ -149,7 +260,7 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 147. Pasmarote
 148. Pasmasuegras
 149. Pataliebre
-150. Pat·n
+150. Pat√°n
 151. Pavitonto
 152. Pazguato
 153. Pecholata
@@ -175,17 +286,32 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 173. Pinchauvas
 174. Pintamonas
 175. Piojoso
-176. PitaÒoso
+176. Pita√±oso
 177. Pitofloro
 178. Plomo
 179. Pocasluces
 180. Pollopera
+
+<div id='id18'/>
+
+## Q
+
 181. Quitahipos
+
+<div id='id19'/>
+
+## R
+
 182. Rastrapajo
-183. RebaÒasandÌas
+183. Reba√±asand√≠as
 184. Revientabaules
-185. RÌeleches
+185. R√≠eleches
 186. Robaperas
+
+<div id='id20'/>
+
+## S
+
 187. Sabandija
 188. Sacamuelas
 189. Sanguijuela
@@ -196,6 +322,11 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 194. Soplagaitas
 195. Soplaguindas
 196. Sosco
+
+<div id='id21'/>
+
+## T
+
 197. Tagarote
 198. Tarado
 199. Tarugo
@@ -209,11 +340,36 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 207. Tragaldabas
 208. Tuercebotas
 209. Tunante
+
+<div id='id22'/>
+
+## U
+
+<div id='id23'/>
+
+## V
+
+<div id='id24'/>
+
+## W
+
+<div id='id25'/>
+
+## X
+
+<div id='id26'/>
+
+## Y
+
+<div id='id27'/>
+
+## Z
+
 210. Zamacuco
 211. Zambombo
 212. Zampabollos
 213. Zamugo
-214. Z·ngano
+214. Z√°ngano
 215. Zarrapastroso
 216. Zascandil
 217. Zopenco
