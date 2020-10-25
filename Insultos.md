@@ -1,6 +1,6 @@
-En este archivo vamos a contemplar el top 221 insultos en castellano:
+#Insultos
 
-# ÍNDICE
+## ÍNDICE
 
 - [A](#id01)
 - [B](#id02)
@@ -36,145 +36,149 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 
 ## A
 
-1. Abanto
-2. Abrazafarolas
-3. Adufe
-4. Alcornoque
-5. Alfeñique
-6. Andurriasmo
-7. Arrastracueros
-8. Artabán
-9. Atarre
+Abanto
+Abrazafarolas
+Adufe
+Alcornoque
+Alfeñique
+Andurriasmo
+Arrastracueros
+Artabán
+Atarre
 
 <div id='id02'/>
 
 ## B
 
-10. Baboso
-11. Barrabás
-12. Barriobajero
-13. Bebecharcos
-14. Bellaco
-15. Belloto
-16. Berzotas
-17. Besugo
-18. Bobalicón
-19. Bocabuzón
-20. Bocachancla
-21. Bocallanta
-22. Boquimuelle
-23. Borrico
-24. Botarate
-25. Brasas
+Baboso
+Barrabás
+Barriobajero
+Bebecharcos
+Bellaco
+Belloto
+Berzotas
+Besugo
+Bobalicón
+Bocabuzón
+Bocachancla
+Bocallanta
+Boquimuelle
+Borrico
+Botarate
+Brasas
 
 <div id='id03'/>
 
 ## C
 
-26. Cabestro
-27. Cabezaalberca
-28. Cabezabuque
-29. Cachibache
-30. Cafre
-31. Cagalindes
-32. Cagarruta
-33. Calambuco
-34. Calamidad
-35. Caldúo
-36. Calientahielos
-37. Calzamonas
-38. Cansalmas
-39. Cantamañanas
-40. Capullo
-41. Caracaballo
-42. Caracartón
-43. Caraculo
-44. Caraflema
-45. Carajaula
-46. Carajote
-47. Carapapa
-48. Carapijo
-49. Cazurro
-50. Cebollino
-51. Cenizo
-52. Cenutrio
-53. Ceporro
-54. Cernícalo
-55. Charrán
-56. Chiquilicuatre
-57. Chirimbaina
-58. Chupacables
-59. Chupasangre
-60. Chupóptero
-61. Cierrabares
-62. Cipote
-63. Comebolsas
-64. Comechapas
-65. Comeflores
-66. Comestacas
-67. Cretino
-68. Cuerpoescombro
-69. Culopollo
+Cabestro
+Cabezaalberca
+Cabezabuque
+Cachibache
+Cafre
+Cagalindes
+Cagarruta
+Calambuco
+Calamidad
+Caldúo
+Calientahielos
+Calzamonas
+Cansalmas
+Cantamañanas
+Capullo
+Caracaballo
+Caracartón
+Caraculo
+Caraflema
+Carajaula
+Carajote
+Carapapa
+Carapijo
+Cazurro
+Cebollino
+Cenizo
+Cenutrio
+Ceporro
+Cernícalo
+Charrán
+Chiquilicuatre
+Chirimbaina
+Chupacables
+Chupasangre
+Chupóptero
+Cierrabares
+Cipote
+Comebolsas
+Comechapas
+Comeflores
+Comestacas
+Cretino
+Cuerpoescombro
+Culopollo
 
 <div id='id04'/>
 
 ## D
 
-70. Descerebrado
-71. Desgarracalzas
-72. Dondiego
-73. Donnadie
+Descerebrado
+Desgarracalzas
+Dondiego
+Donnadie
 
 <div id='id05'/>
 
 ## E
 
-74. Echacantos
-75. Ejarramantas
-76. Energúmeno
-77. Esbaratabailes
-78. Escolimoso
-79. Escornacabras
-80. Estulto
+Echacantos
+Ejarramantas
+Energúmeno
+Esbaratabailes
+Escolimoso
+Escornacabras
+Estulto
 
 <div id='id06'/>
 
 ## F
 
-81. Fanfosquero
-82. Fantoche
-83. Fariseo
-84. Filimincias
-85. Foligoso
-86. Fulastre
+Fanfosquero
+Fantoche
+Fariseo
+Filimincias
+Foligoso
+Fulastre
 
 <div id='id07'/>
 
 ## G
 
-87. Ganapán
-88. Ganapio
-89. Gandúl
-90. Gañán
-91. Gaznápiro
-92. Gilipuertas
-93. Giraesquinas
-94. Gorrino
-95. Gorrumino
-96. Guitarro
-97. Gurriato
+Ganapán
+Ganapio
+Gandúl
+Gañán
+Gaznápiro
+Gilipuertas
+Giraesquinas
+Gorrino
+Gorrumino
+Guitarro
+Gurriato
 
 <div id='id08'/>
 
 ## H
 
-98. Habahelá
-99. Huelegateras
-100. Huevón
+Habahelá
+Huelegateras
+Huevón
 
 <div id='id09'/>
 
 ## I
+
+Imbécil
+Inútil
+Inepto
 
 <div id='id10'/>
 
@@ -188,44 +192,44 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 
 ## L
 
-101. Lamecharcos
-102. Lameculos
-103. Lameplatos
-104. Lechuguino
-105. Lerdo
-106. Letrín
-107. Lloramigas
-108. Longanizas
-109. Lumbreras
+Lamecharcos
+Lameculos
+Lameplatos
+Lechuguino
+Lerdo
+Letrín
+Lloramigas
+Longanizas
+Lumbreras
 
 <div id='id13'/>
 
 ## M
 
-110. Maganto
-111. Majadero
-112. Malasangre
-113. Malasombra
-114. Malparido
-115. Mameluco
-116. Mamporrero
-117. Manegueta
-118. Mangarrán
-119. Mangurrián
-120. Mastuerzo
-121. Matacandiles
-122. Meapilas
-123. Melón
-124. Mendrugo
-125. Mentecato
-126. Mequetrefe
-127. Merluzo
-128. Metemuertos
-129. Metijaco
-130. Mindundi
-131. Morlaco
-132. Morroestufa
-133. Muerdesartenes
+Maganto
+Majadero
+Malasangre
+Malasombra
+Malparido
+Mameluco
+Mamporrero
+Manegueta
+Mangarrán
+Mangurrián
+Mastuerzo
+Matacandiles
+Meapilas
+Melón
+Mendrugo
+Mentecato
+Mequetrefe
+Merluzo
+Metemuertos
+Metijaco
+Mindundi
+Morlaco
+Morroestufa
+Muerdesartenes
 
 <div id='id14'/>
 
@@ -239,107 +243,107 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 
 ## O
 
-134. Orate
-135. Ovejo
+Orate
+Ovejo
 
 <div id='id17'/>
 
 ## P
 
-136. Pagafantas
-137. Palurdo
-138. Pamplinas
-139. Panarra
-140. Panoli
-141. Papafrita
-142. Papanatas
-143. Papirote
-144. Paquete
-145. Pardillo
-146. Parguela
-147. Pasmarote
-148. Pasmasuegras
-149. Pataliebre
-150. Patán
-151. Pavitonto
-152. Pazguato
-153. Pecholata
-154. Pedorro
-155. Peinabombillas
-156. Peinaovejas
-157. Pelagallos
-158. Pelagambas
-159. Pelagatos
-160. Pelatigres
-161. Pelazarzas
-162. Pelele
-163. Pelma
-164. Percebe
-165. Perrocostra
-166. Perroflauta
-167. Peterete
-168. Petimetre
-169. Picapleitos
-170. Pichabrava
-171. Pillavispas
-172. Piltrafa
-173. Pinchauvas
-174. Pintamonas
-175. Piojoso
-176. Pitañoso
-177. Pitofloro
-178. Plomo
-179. Pocasluces
-180. Pollopera
+Pagafantas
+Palurdo
+Pamplinas
+Panarra
+Panoli
+Papafrita
+Papanatas
+Papirote
+Paquete
+Pardillo
+Parguela
+Pasmarote
+Pasmasuegras
+Pataliebre
+Patán
+Pavitonto
+Pazguato
+Pecholata
+Pedorro
+Peinabombillas
+Peinaovejas
+Pelagallos
+Pelagambas
+Pelagatos
+Pelatigres
+Pelazarzas
+Pelele
+Pelma
+Percebe
+Perrocostra
+Perroflauta
+Peterete
+Petimetre
+Picapleitos
+Pichabrava
+Pillavispas
+Piltrafa
+Pinchauvas
+Pintamonas
+Piojoso
+Pitañoso
+Pitofloro
+Plomo
+Pocasluces
+Pollopera
 
 <div id='id18'/>
 
 ## Q
 
-181. Quitahipos
+Quitahipos
 
 <div id='id19'/>
 
 ## R
 
-182. Rastrapajo
-183. Rebañasandías
-184. Revientabaules
-185. Ríeleches
-186. Robaperas
+Rastrapajo
+Rebañasandías
+Revientabaules
+Ríeleches
+Robaperas
 
 <div id='id20'/>
 
 ## S
 
-187. Sabandija
-188. Sacamuelas
-189. Sanguijuela
-190. Sinentraero
-191. Sinsustancia
-192. Sonajas
-193. Sonso
-194. Soplagaitas
-195. Soplaguindas
-196. Sosco
+Sabandija
+Sacamuelas
+Sanguijuela
+Sinentraero
+Sinsustancia
+Sonajas
+Sonso
+Soplagaitas
+Soplaguindas
+Sosco
 
 <div id='id21'/>
 
 ## T
 
-197. Tagarote
-198. Tarado
-199. Tarugo
-200. Tiralevitas
-201. Tocapelotas
-202. Tocho
-203. Tolai
-204. Tontaco
-205. Tontucio
-206. Tordo
-207. Tragaldabas
-208. Tuercebotas
-209. Tunante
+Tagarote
+Tarado
+Tarugo
+Tiralevitas
+Tocapelotas
+Tocho
+Tolai
+Tontaco
+Tontucio
+Tordo
+Tragaldabas
+Tuercebotas
+Tunante
 
 <div id='id22'/>
 
@@ -365,15 +369,15 @@ En este archivo vamos a contemplar el top 221 insultos en castellano:
 
 ## Z
 
-210. Zamacuco
-211. Zambombo
-212. Zampabollos
-213. Zamugo
-214. Zángano
-215. Zarrapastroso
-216. Zascandil
-217. Zopenco
-218. Zoquete
-219. Zote
-220. Zullenco
-221. Zurcefrenillos
+Zamacuco
+Zambombo
+Zampabollos
+Zamugo
+Zángano
+Zarrapastroso
+Zascandil
+Zopenco
+Zoquete
+Zote
+Zullenco
+Zurcefrenillos
