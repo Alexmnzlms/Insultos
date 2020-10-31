@@ -186,6 +186,8 @@ Inepto
 
 ## J
 
+
+
 <div id='id11'/>
 
 ## K
@@ -237,9 +239,13 @@ Muerdesartenes
 
 ## N
 
+Necio
+
 <div id='id15'/>
 
 ## Ñ
+
+Ñoño
 
 <div id='id16'/>
 
@@ -256,6 +262,7 @@ Pagafantas
 Palurdo
 Pamplinas
 Panarra
+Pánfilo
 Panoli
 Papafrita
 Papanatas
@@ -279,6 +286,7 @@ Pelagatos
 Pelatigres
 Pelazarzas
 Pelele
+Pellizcabombillas
 Pelma
 Percebe
 Perrocostra
