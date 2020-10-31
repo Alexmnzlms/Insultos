@@ -1,2 +1,2 @@
 # Insultos
-Repositorio que reune el maravilloso arte de insultar en castellano
+Repositorio que reúne el maravilloso arte de insultar en castellano.
